@@ -16,7 +16,7 @@ Todas las tareas de programacion II UASD del maestro Nelson Abreu
 - ClaseEmpleado_ClaseInterna/  
 - numeros_aleatorios_enteros/
 - ClasePersonal/               
-- NumerosAleatorios/
+- *NumerosAleatorios y loteria leidsa*/
 - ClasesAbstractas/            
 - ObjetoGeometrico/
 - ClaseVehiculo/               
@@ -32,5 +32,5 @@ Todas las tareas de programacion II UASD del maestro Nelson Abreu
 - Entrada_datos/               
 - UtilMath/
 - Factorial/                   
-- Validaciones y loteria/
+- Validaciones/
 
